@@ -1,0 +1,4 @@
+유니티 게임 비밀번호 :zcs125789@
+키스토어파일:zcs125789@
+지우기 값
+PlayerPrefs.DeleteAll();

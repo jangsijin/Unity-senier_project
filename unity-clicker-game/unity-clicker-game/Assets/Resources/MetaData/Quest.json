@@ -1,0 +1,11 @@
+{
+	"QuestList":
+	[
+		{
+			"Type":"SubQuest0",
+			"Name" :"미니던전",
+
+			"Cost":100000
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"ItemList":
+	[
+		{
+			"Type":"StatDamage",
+			"Name" :"무기",
+
+			"Cost":1,
+			"DamageUpgradeAmount":2,
+			"DamageUpgradeAmountOp":"*",
+
+			"UpgradeAmount" : 2,
+			"UpgradeAmountOp" : "*"
+		},
+		{
+			"Type":"StatDefense",
+			"Name" :"방어구",
+			
+			"Cost":10,
+			"DefenseUpgradeAmount":2,
+			"DefenseUpgradeAmountOp":"*",
+
+			"UpgradeAmount" : 2,
+			"UpgradeAmountOp" : "+"
+		},
+		{
+			"Type":"StatHealth",
+			"Name" :"체력 향상",
+			
+			"Cost":100,
+			"HealthUpgradeAmount":3,
+			"HealthUpgradeAmountOp":"*",
+
+			"UpgradeAmount" : 3,
+			"UpgradeAmountOp" : "*"
+		}
+	]
+}

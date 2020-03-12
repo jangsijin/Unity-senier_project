@@ -1,0 +1,10 @@
+{
+	"DugeonList":
+	[
+		{
+			"Type":"Dugeon0",
+			"Name" :"던전1",
+			"Cost":100000
+		}
+	]
+}
